@@ -1,0 +1,6 @@
+WebSocketApp
+.idea
+go.mod
+go.sum
+.DS_Store
+*-v.*
