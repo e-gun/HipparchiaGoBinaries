@@ -1,1 +1,1 @@
-Latest Darwin is v.1.0.0
+Latest Darwin is v.1.0.6
