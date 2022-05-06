@@ -1,0 +1,1 @@
+Latest Darwin-arm64 is v.1.4.4
