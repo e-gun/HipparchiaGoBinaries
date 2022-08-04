@@ -1,0 +1,1 @@
+MD5 (HipparchiaGoDBHelper-MINGW64_NT-10.0-19044-unknown-latest.exe.bz2) = de233ea557f969f100680d21d3394bcb
