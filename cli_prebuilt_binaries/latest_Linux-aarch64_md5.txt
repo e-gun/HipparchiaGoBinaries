@@ -1,1 +1,0 @@
-MD5 (HipparchiaGoDBHelper-Linux-aarch64-latest.bz2) = 780ac8c47a056123fb1324f457d6607f
